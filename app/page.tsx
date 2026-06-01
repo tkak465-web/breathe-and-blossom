@@ -222,7 +222,11 @@ export default function Home() {
           label="Instagram"
           link="https://instagram.com/example"
         />
-
+<ContactIcon
+  image="/images/Icons/tiktok.svg"
+  label="TikTok"
+  link="https://tiktok.com/@youraccount"
+/>
         <ContactIcon
           image="/images/Icons/gmail.svg"
           label="Email"
