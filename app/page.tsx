@@ -138,19 +138,19 @@ export default function Home() {
         }}
       >
         <ServiceCard
-          image="/images/gallery/corporate/lunch-and-glow.jpeg"
+          image="/images/Gallery/corporate/lunch-and-glow.jpeg"
           title="Lunch & Glow"
           subtitle="Corporate Wellness Package"
         />
 
         <ServiceCard
-          image="/images/gallery/corporate/stress-reset-day.jpeg"
+          image="/images/Gallery/corporate/stress-reset-day.jpeg"
           title="Stress Reset Day"
           subtitle="Corporate Wellness Package"
         />
 
         <ServiceCard
-          image="/images/gallery/corporate/team-glow.jpeg"
+          image="/images/Gallery/corporate/team-glow.jpeg"
           title="Team Glow"
           subtitle="Corporate Wellness Package"
         />
@@ -224,7 +224,7 @@ export default function Home() {
         />
 
         <ContactIcon
-          image="/images/icons/gmail.svg"
+          image="/images/Icons/gmail.svg"
           label="Email"
           link="mailto:hello@example.com"
         />
