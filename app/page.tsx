@@ -99,7 +99,7 @@ export default function Home() {
         }}
       >
         <ServiceCard
-          image="/images/gallery/quick-reset.jpeg"
+          image="/images/Gallery/quick-reset.jpeg"
           title="Quick Reset"
           subtitle="30 Minutes"
         />
@@ -206,7 +206,7 @@ export default function Home() {
         }}
       >
         <ContactIcon
-          image="/images/icons/whatsapp.svg"
+          image="/images/Icons/whatsapp.svg"
           label="WhatsApp"
           link="https://wa.me/27697098424"
         />
