@@ -105,13 +105,13 @@ export default function Home() {
         />
 
         <ServiceCard
-          image="/images/gallery/glow-facial.jpeg"
+          image="/images/Gallery/glow-facial.jpeg"
           title="Glow Facial"
           subtitle="45 Minutes"
         />
 
         <ServiceCard
-          image="/images/gallery/full-ritual.jpeg"
+          image="/images/Gallery/full-ritual.jpeg"
           title="Full Ritual"
           subtitle="60 Minutes"
         />
@@ -212,13 +212,13 @@ export default function Home() {
         />
 
         <ContactIcon
-          image="/images/icons/facebook.svg"
+          image="/images/Icons/facebook.svg"
           label="Facebook"
           link="https://facebook.com/example"
         />
 
         <ContactIcon
-          image="/images/icons/instagram.svg"
+          image="/images/Icons/instagram.svg"
           label="Instagram"
           link="https://instagram.com/example"
         />
