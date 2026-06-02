@@ -248,14 +248,15 @@ function ServiceCard({
 }) {
   return (
     <div
-      style={{
-        background: "white",
-        borderRadius: "20px",
-        overflow: "hidden",
-        width: "300px",
-        boxShadow: "0 4px 12px rgba(0,0,0,0.08)",
-      }}
-    >
+  style={{
+    background: "white",
+    borderRadius: "20px",
+    overflow: "hidden",
+    width: "300px",
+    boxShadow: "0 8px 24px rgba(0,0,0,0.08)",
+    transition: "all 0.3s ease",
+  }}
+>
       <img
         src={image}
         alt={title}
