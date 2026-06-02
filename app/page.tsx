@@ -211,21 +211,21 @@ export default function Home() {
           link="https://wa.me/27697098424"
         />
 
-        <ContactIcon
-          image="/images/Icons/facebook.svg"
-          label="Facebook"
-          link="https://facebook.com/example"
-        />
+       <ContactIcon
+  image="/images/Icons/facebook.svg"
+  label="Facebook"
+  link="https://www.facebook.com/share/1HTmyK9zxA/"
+/>
 
-        <ContactIcon
-          image="/images/Icons/instagram.svg"
-          label="Instagram"
-          link="https://instagram.com/example"
-        />
+<ContactIcon
+  image="/images/Icons/instagram.svg"
+  label="Instagram"
+  link="https://www.instagram.com/breatheandblossom2026?igsh=OThobHBmd28xNjBv&utm_source=ig_contact_invite"
+/>
 <ContactIcon
   image="/images/Icons/tiktok.svg"
   label="TikTok"
-  link="https://tiktok.com/@youraccount"
+  link="https://tiktok.com/@breatheandblossom26"
 />
         <ContactIcon
           image="/images/Icons/gmail.svg"
