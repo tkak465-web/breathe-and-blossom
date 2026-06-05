@@ -214,25 +214,53 @@ export default function Home() {
         <ContactIcon
           image="/images/Icons/facebook.svg"
           label="Facebook"
-          link="https://facebook.com/example"
+          link="https://www.facebook.com/share/1HTmyK9zxA/"
         />
 
         <ContactIcon
           image="/images/Icons/instagram.svg"
           label="Instagram"
-          link="https://instagram.com/example"
+          link="https://www.instagram.com/breatheandblossom2026?igsh=OThobHBmd28xNjBv&utm_source=ig_contact_invite"
         />
-<ContactIcon
-  image="/images/Icons/tiktok.svg"
-  label="TikTok"
-  link="https://tiktok.com/@youraccount"
-/>
+
+        <ContactIcon
+          image="/images/Icons/tiktok.svg"
+          label="TikTok"
+          link="https://tiktok.com/@breatheandblossom26"
+        />
+
         <ContactIcon
           image="/images/Icons/gmail.svg"
           label="Email"
-          link="mailto:hello@example.com"
+          link="mailto:breathandblossomspa@gmail.com"
         />
       </div>
+
+      <hr style={{ margin: "80px 0", opacity: 0.2 }} />
+
+      <footer
+        style={{
+          textAlign: "center",
+          paddingBottom: "40px",
+          color: "#8a7b6b",
+        }}
+      >
+        <h3
+          style={{
+            color: "#7a8f7a",
+            marginBottom: "15px",
+          }}
+        >
+          Breathe & Blossom Mobile Spa
+        </h3>
+
+        <p>WhatsApp: +27 69 709 8424</p>
+        <p>Email: breathandblossomspa@gmail.com</p>
+
+        <p style={{ marginTop: "20px", fontSize: "14px" }}>
+          © 2026 Breathe & Blossom. All Rights Reserved.
+        </p>
+      </footer>
     </main>
   );
 }
